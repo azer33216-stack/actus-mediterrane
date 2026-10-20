@@ -9,8 +9,6 @@ dependencies = [
     "python-dotenv",
     "httpx",
 ],
-]
-
 [dependency-groups]
 dev = [
     "ruff>=0.11",
